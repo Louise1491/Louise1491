@@ -11,7 +11,7 @@ I use AI tools to identify the real problem inside a complex system — then bui
 
 Three things that don't usually show up in the same person:
 
-- **China EV industry from the inside.** On the ground for Tesla's early China market entry; four years at Stellantis on cross-regional vehicle programs; then led product for HIMA's flagship Stelatos S9 EV — a launch that competed directly with BMW, Mercedes, Audi, and Porsche.
+- **China EV industry from the inside.** On the ground for Tesla's early China market entry; four years at Stellantis on cross-regional vehicle programs; then led product for HIMA's flagship Stelato S9 EV — a launch that competed directly with BMW, Mercedes, Audi, and Porsche.
 - **Two-world fluency by experience, not by claim.** Bilingual operator who has navigated Chinese OEM decision-making and US AI ecosystem dynamics from inside both.
 - **AI-native execution.** Claude, Claude Code, and agent skills are part of how I think and ship — not tools I occasionally consult. Most of the work below was built this way.
 
