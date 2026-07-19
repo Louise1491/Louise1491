@@ -35,7 +35,7 @@ These three projects together show the full arc: **quantitative analysis → sys
 - Automated Layer A filter via ffprobe; ROI-based motion blur detection (v1 + v2)
 - Validated across varied industrial scene types and operator demographics
 
-### 📊 nuScenes Inter-Annotator Agreement Analysis *(in progress)*
+### 📊 nuScenes Inter-Annotator Agreement Analysis https://github.com/Louise1491/nuScenes-IAA-Analysis
 **Quantitative analysis.** Applying inter-annotator agreement metrics to the nuScenes benchmark to surface systematic labeling inconsistencies in autonomous driving datasets.
 
 ### 🏢 CRM + Operational Dashboards for a Real Estate Portfolio *(case studies in build)*
