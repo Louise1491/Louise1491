@@ -30,18 +30,24 @@ That's the through-line across everything below.
 These three projects together show the full arc: **quantitative analysis → systemic judgment & framework design → real-world delivery.**
 
 ### 🤖 [Embodied AI Training Data — Video QA Toolkit](https://github.com/Louise1491/Embodied_AI_VideoQA)
+
 **Systemic judgment & framework design.** A QA methodology and automation toolkit for evaluating egocentric video data quality for robot manipulation training.
+
 - 4-layer QA framework + 7-pattern guideline audit checklist
 - Automated Layer A filter via ffprobe; ROI-based motion blur detection (v1 + v2)
 - Validated across varied industrial scene types and operator demographics
 
 ### 📊 [nuScenes Inter-Annotator Agreement Analysis](https://github.com/Louise1491/nuScenes-IAA-Analysis)
+
 **Quantitative analysis.** Applying inter-annotator agreement metrics to the nuScenes benchmark to surface systematic labeling inconsistencies in autonomous driving datasets.
 
-### 🏢 CRM + Operational Dashboards for a Real Estate Portfolio *(case studies in build)*
-**Real-world delivery.** Designed and built two interlocking systems for a Los Angeles-based commercial real estate firm:
-- **Two-tier dashboard system** — owner-facing operational view + CFO/investor-facing investment performance view, integrating property operations data with investor distribution data
-- **From-scratch CRM architecture** — Contact and Property objects with interoperable many-to-many design, currently in build
+### 🏢 [CRE CRM — Vertical CRM for a Commercial Real Estate Firm](https://github.com/Louise1491/crm-case-study)
+
+**Real-world delivery.** Designed, built, and handed off a lead-generation CRM for a Los Angeles–based commercial real estate firm — people and properties as co-equal, bidirectionally linked entities.
+
+- 📖 [Bilingual case study](https://github.com/Louise1491/crm-case-study) · 🖥️ [Live demo](https://crm-portfolio-demo-delta.vercel.app) · 🎬 [Video walkthrough](https://youtu.be/5svRt7fXKyM)
+- Shared activity log (one record, two timelines), cold-start call queue design, archive/delete lifecycle — shipped as a working MVP with a complete company handoff
+- Also delivered: a two-tier property dashboard system (owner operations view + CFO/investor capital view) with rule-governed monthly reporting
 
 ---
 
