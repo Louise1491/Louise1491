@@ -54,7 +54,7 @@ These three projects together show the full arc: **quantitative analysis → sys
 ## Background
 
 ```
-Tesla China     │ Product Specialist                  │ 2014–2016
+Tesla China     │ Product Specialist                  │ 2014–2015
 Stellantis/FCA  │ Product Data Management Analyst     │ 2017–2021
 HIMA (Huawei)   │ Product Manager, S9 EV              │ 2021–2025
 USC Marshall    │ MSBA (Dec 2026)                     │ 2025–2026
